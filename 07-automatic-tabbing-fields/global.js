@@ -1,4 +1,5 @@
 // Your JavaScript goes here.
+
 window.addEventListener('load', function(){
     var first = document.getElementById('first')
     var second = document.getElementById('second')
