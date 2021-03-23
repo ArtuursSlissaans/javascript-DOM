@@ -6,7 +6,7 @@
 
 > If you click the link to reveal more text and then refresh the page, does the text remain revealed, or is it hidden again? Why?
 
-Your reply here... Vins vel projām būs atvērts.
+Your reply here...Viņš aiztaisīsies jo tu arī refrešo to cammandu ar visu lapaspusi
 
 ---
 
