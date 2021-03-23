@@ -18,4 +18,4 @@ Your reply here... links vairs nelasīs tavu scriptu bez viņa, tādēļ nedzrī
 
 > Describe the the `addEventListener` method. (Remember that there is a specific, technical, methodical way to describe methods. Your reply should match that format.)
 
-Your reply here...
+Your reply here...  addEventListener' ņem divus parametrus; notikums un funkcija. Ikreiz, kad elementam, kuram tas tiek pievienots, notikums tiek aktivizēts, funkcija tiek izpildīta ar parametru, kas atdod objektu, kas aktivizēja notikumu
